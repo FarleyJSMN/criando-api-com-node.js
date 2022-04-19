@@ -6,3 +6,11 @@ Criamos o arquivo package com o comando no terminal npm init
 Para gerenciar as requisições, rotas e URLs, entre outras funcionalidades vamos usar o npm install express
 
 Para reiniciar o servidor sempre que houver alterações no código fonte usar npm install -D nodemon
+
+Sequelize para mapeamento de dados relacionais (tabelas, colunas e linhas) para objetos JavaScript.
+
+Instalar o Sequelize npm install --save sequelize
+
+Banco de Dados - Instalar o MySQL em sua máquina.
+
+Instalar o MySQL2 npm install --save mysql2
