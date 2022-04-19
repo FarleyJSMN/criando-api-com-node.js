@@ -1,0 +1,22 @@
+{
+  "name": "criando-api-com-node",
+  "version": "1.0.0",
+  "description": "Apendendo a criar API com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarleyJSMN/criando-api-com-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarleyJSMN/criando-api-com-node.js/issues"
+  },
+  "homepage": "https://github.com/FarleyJSMN/criando-api-com-node.js#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
